@@ -11,20 +11,20 @@
 .media-icons > a{
 	margin: 5px;
 }
-.bottom-details{
+.link-boxes{
 	margin-top: 20px;
 /* 	border: 1px solid; */
 	display: flex;
 	justify-content: space-between;
 
 }
-.bottom-details > section > h3{
+.link-boxes > section > h3{
 	text-decoration: underline;
 }
-.bottom-details > section{
+.link-boxes > section{
 /* 	border: 1px solid; */
 }
-.bottom-details > section > ul{
+.link-boxes > section > ul{
 /* 	border: 1px solid; */
 	padding-left: 0;
 }
