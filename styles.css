@@ -8,7 +8,7 @@
 .media-icons{
 	display: flex;
 }
-.media-icons > div{
+.media-icons > a{
 	margin: 5px;
 }
 
