@@ -3,12 +3,33 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	border: 1px solid;
+/* 	border: 1px solid; */
 }
 .media-icons{
 	display: flex;
 }
 .media-icons > a{
+	margin: 5px;
+}
+.bottom-details{
+	margin-top: 20px;
+/* 	border: 1px solid; */
+	display: flex;
+	justify-content: space-between;
+
+}
+.bottom-details > section > h3{
+	text-decoration: underline;
+}
+.bottom-details > section{
+/* 	border: 1px solid; */
+}
+.bottom-details > section > ul{
+/* 	border: 1px solid; */
+	padding-left: 0;
+}
+li{
+	list-style: none;
 	margin: 5px;
 }
 
